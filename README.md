@@ -1,5 +1,5 @@
 ## Happy
-Application in development for [Next Level Week #3 by Rocketseat](https://nextlevelweek.com/).
+Application developed at [Next Level Week #3 by Rocketseat](https://nextlevelweek.com/).
 
 ## Available Scripts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
